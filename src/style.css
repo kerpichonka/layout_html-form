@@ -1,4 +1,4 @@
-fieldset {
+.block {
   margin-bottom: 20px;
 }
 
@@ -6,6 +6,6 @@ fieldset {
   margin-bottom: 10px;
 }
 
-fieldset div.wrapper:last-child {
+.block div.wrapper:last-child {
   margin-bottom: 0;
 }
